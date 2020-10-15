@@ -54,12 +54,13 @@ CSS
 
 A continuación debemos crear el archivo con extención *.css* en lo cual definiremos los estilos y daremos formato a toda nuestra estructura previamente creada, aqui heredaremos a las clases respectivas creadas en html.
 
-Con esto damos formato a la ventana en general así como tambien empezamos a trabajar con las herencias entre nuestro archivo HTML y CSS.
+Con esto damos formato a la ventana en general así como tambien empezamos a trabajar con las herencias entre nuestro archivo HTML y CSS. 
 ![Formulario](imagenes/css2.1.JPG)
 
 Una ves terminado de dar formato a cada parte de nuestro formularioasi como a las diferentes clases.
 Así es como se verá gracias a el CSS, con estilos y dandole formato a nuestra página.
 
 Resultado Final
+
 
 ![Formulario](imagenes/css2.JPG)
